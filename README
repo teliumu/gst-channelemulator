@@ -1,0 +1,15 @@
+Channel Emulator ReadMe
+=============
+
+About
+-----
+
+Channel Emulator is Gstreamer 1.0 plugin for simulating network environment like packets drop, duplication, delay, etc.
+
+Channel Emulator by default do not provide any changes to received packets. To enable any of them, it's required to change corresponding loss probabilities or other parameters by setting properties of element.
+
+License
+-------
+
+This plugin is licensed under the LGPL v2.1.
+Copyright 2015 Samsung R&D Institute Ukraine.

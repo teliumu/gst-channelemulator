@@ -1,0 +1,13 @@
+=== release 0.2.0 ===
+
+	* ChangeLog:
+	* AUTHORS:
+	* README.md:
+	* LICENSE:
+	* autogen.sh:
+	* configure.ac:
+	* Makefile.am
+	* gstchannelemulator.h
+	* gstchannelemulator.c
+	* Makefile.am
+	  releasing 0.2.0
