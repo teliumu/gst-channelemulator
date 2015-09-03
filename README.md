@@ -4,7 +4,9 @@ Channel Emulator
 About
 -----
 
-Channel Emulator is Gstreamer 1.0 plugin for simulating network environment like packets drop, duplication, delay, etc.
+Channel Emulator is Gstreamer 1.0 plugin for simulating network environment.
+
+Channel Emulation enables simulating network environment like packets drop, duplication, delay, etc. in the pipelines created based on GStreamer multimedia framework. Channel Emulation can be combined with other GStreamer multimedia plugins for emulating full range of possible events occurred in network channel in case of GStreamer plugins evaluation.
 
 Channel Emulator by default do not provide any changes to received packets. To enable any of them, it's required to change corresponding loss probabilities or other parameters by setting properties of element.
 
